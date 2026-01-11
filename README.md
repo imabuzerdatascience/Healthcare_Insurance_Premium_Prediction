@@ -55,3 +55,4 @@ The final model achieved strong performance with high explanatory power.
 - Deploy as a web application
 - Add more detailed health indicators
 
+<!-- model segment -->
