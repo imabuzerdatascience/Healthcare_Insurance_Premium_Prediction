@@ -1,4 +1,5 @@
-# Healthcare Insurance Premium Prediction (Regression)
+# Healthcare Insurance Premium Prediction (Regression) 
+![img alt](https://github.com/imabuzerdatascience/Healthcare_Insurance_Premium_Prediction/blob/6957a02e16c159d4b50ff7387ac6b204e29f41b7/new%20one%20.png)
 
 ## Project Overview
 This project aims to predict healthcare insurance premiums using regression techniques based on customer demographic and health-related attributes. Accurate premium prediction helps insurance companies optimize pricing strategies and manage financial risk.
